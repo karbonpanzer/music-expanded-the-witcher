@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Only apply if the Anomaly DLC mod is present -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Anomaly</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <!-- Tier 0 -->
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_SmallShamblerSwarm"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>SmallShamblerSwarm</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_PsychicRitualSiege"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>PsychicRitualSiege</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_ShamblerAssault"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>ShamblerAssault</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="CreepJoinerJoin"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>CreepJoinerJoin</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_ShamblerSwarm"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>ShamblerSwarm</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_DistressCall"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>DistressCall</cueData>
+            </li>
+          </value>
+        </li>
+
+        <!-- Tier 1 -->
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_SightstealerArrival"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>SightstealerArrival</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_FleshbeastAttack"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>FleshbeastAttack</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_ChimeraAssault"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>ChimeraAssault</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_HateChanters"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>HateChanters</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_GorehulkAssault"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>GorehulkAssault</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_DevourerAssault"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>DevourerAssault</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_SightstealerSwarm"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>SightstealerSwarm</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_DevourerWaterAssault"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>DevourerWaterAssault</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_ShamblerSwarmAnimals"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>ShamblerSwarmAnimals</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_GhoulAttack"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>GhoulAttack</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_MetalHorrorImplantation"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>MetalHorrorImplantation</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_DeathPall"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>DeathPall</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_Revenant"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>Revenant</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_TwistedObelisk"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>TwistedObelisk</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_CorruptedObelisk"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>CorruptedObelisk</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_WarpedObelisk"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>WarpedObelisk</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_MysteriousCargoUnnaturalCorpse"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>MysteriousCargoUnnaturalCorpse</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_MysteriousCargoGoldenCube"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>MysteriousCargoGoldenCube</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_MysteriousCargoRevenantSpine"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>MysteriousCargoRevenantSpine</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_FrenziedAnimals"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>FrenziedAnimals</cueData>
+            </li>
+          </value>
+        </li>
+
+        <!-- Tier 2 -->
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_PitGate"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>PitGate</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_FleshmassHeart"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>FleshmassHeart</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_UnnaturalDarkness"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>UnnaturalDarkness</cueData>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAddModExtension">
+          <xpath>/Defs/IncidentDef[defName="Anomaly_Nociosphere"]</xpath>
+          <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+              <cue>Custom</cue>
+              <cueData>Nociosphere</cueData>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

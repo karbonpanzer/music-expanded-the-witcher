@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- ===== Regular Game Tracks ===== -->
+
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_001</defName>
+		<label>Witcher 3 – The Trail</label>
+		<clipPath>MusicExpanded/Witcher3/01. The Trail</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_004</defName>
+		<label>Witcher 3 – Wake Up, Ciri</label>
+		<clipPath>MusicExpanded/Witcher3/04. Wake Up, Ciri</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_005</defName>
+		<label>Witcher 3 – Aen Seidhe</label>
+		<clipPath>MusicExpanded/Witcher3/05. Aen Seidhe</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_007</defName>
+		<label>Witcher 3 – Emhyr Var Emreis</label>
+		<clipPath>MusicExpanded/Witcher3/07. Emhyr Var Emreis</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_008</defName>
+		<label>Witcher 3 – Spikeroog</label>
+		<clipPath>MusicExpanded/Witcher3/08. Spikeroog</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_009</defName>
+		<label>Witcher 3 – King Bran’s Final Voyage</label>
+		<clipPath>MusicExpanded/Witcher3/09. King Bran’s Final Voyage</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_011</defName>
+		<label>Witcher 3 – Whispers Of Oxenfurt</label>
+		<clipPath>MusicExpanded/Witcher3/11. Whispers Of Oxenfurt</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_012</defName>
+		<label>Witcher 3 – The Nightingale</label>
+		<clipPath>MusicExpanded/Witcher3/12. The Nightingale</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_013</defName>
+		<label>Witcher 3 – City Of Intrigues</label>
+		<clipPath>MusicExpanded/Witcher3/13. City Of Intrigues</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_014</defName>
+		<label>Witcher 3 – The Hunter’s Path</label>
+		<clipPath>MusicExpanded/Witcher3/14. The Hunter’s Path</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_017</defName>
+		<label>Witcher 3 – Eyes Of The Wolf</label>
+		<clipPath>MusicExpanded/Witcher3/17. Eyes Of The Wolf</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_019</defName>
+		<label>Witcher 3 – ...Steel For Humans</label>
+		<clipPath>MusicExpanded/Witcher3/19. ...Steel For Humans</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_020</defName>
+		<label>Witcher 3 – Fate Calls</label>
+		<clipPath>MusicExpanded/Witcher3/20. Fate Calls</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_021</defName>
+		<label>Witcher 3 – The Vagabond</label>
+		<clipPath>MusicExpanded/Witcher3/21. The Vagabond</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_024</defName>
+		<label>Witcher 3 – Yes, I Do</label>
+		<clipPath>MusicExpanded/Witcher3/24. Yes, I Do</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_027</defName>
+		<label>Witcher 3 – After The Storm</label>
+		<clipPath>MusicExpanded/Witcher3/27. After The Storm</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_029</defName>
+		<label>Witcher 3 – Farewell, Old Friend</label>
+		<clipPath>MusicExpanded/Witcher3/29. Farewell, Old Friend</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_030</defName>
+		<label>Witcher 3 – The Song Of The Sword-Dancer</label>
+		<clipPath>MusicExpanded/Witcher3/30. The Song Of The Sword-Dancer</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_032</defName>
+		<label>Witcher 3 – Family Matters</label>
+		<clipPath>MusicExpanded/Witcher3/32. Family Matters</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_034</defName>
+		<label>Witcher 3 – Child Of The Elder Blood</label>
+		<clipPath>MusicExpanded/Witcher3/34. Child Of The Elder Blood</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_037</defName>
+		<label>Witcher 3 – Bonnie At Morn (Instrumental)</label>
+		<clipPath>MusicExpanded/Witcher3/37. Bonnie At Morn (Instrumental)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_039</defName>
+		<label>Witcher 3 – Back On The Path</label>
+		<clipPath>MusicExpanded/Witcher3/39. Back On The Path</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_040</defName>
+		<label>Witcher 3 – Words On Wind</label>
+		<clipPath>MusicExpanded/Witcher3/40. Words On Wind</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_041</defName>
+		<label>Witcher 3 – A Story You Won’t Believe</label>
+		<clipPath>MusicExpanded/Witcher3/41. A Story You Won’t Believe</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_042</defName>
+		<label>Witcher 3 – When No Man Has Gone Before</label>
+		<clipPath>MusicExpanded/Witcher3/42. When No Man Has Gone Before</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_043</defName>
+		<label>Witcher 3 – Like A Wounded Animal</label>
+		<clipPath>MusicExpanded/Witcher3/43. Like A Wounded Animal</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_044</defName>
+		<label>Witcher 3 – I Name Thee Dea And Embrace Thee As My Daughter</label>
+		<clipPath>MusicExpanded/Witcher3/44. I Name Thee Dea And Embrace Thee As My Daughter</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_045</defName>
+		<label>Witcher 3 – Igni</label>
+		<clipPath>MusicExpanded/Witcher3/45. Igni</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_046</defName>
+		<label>Witcher 3 – The Tree When We Sat Once</label>
+		<clipPath>MusicExpanded/Witcher3/46. The Tree When We Sat Once</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_048</defName>
+		<label>Witcher 3 – The Wolf And The Swallow</label>
+		<clipPath>MusicExpanded/Witcher3/48. The Wolf And The Swallow</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_050</defName>
+		<label>Witcher 3 – Trial Of The Grasses</label>
+		<clipPath>MusicExpanded/Witcher3/50. Trial Of The Grasses</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_051</defName>
+		<label>Witcher 3 – Hjalmar’s Axe</label>
+		<clipPath>MusicExpanded/Witcher3/51. Hjalmar’s Axe</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_053</defName>
+		<label>Witcher 3 – The Shrieker Contract</label>
+		<clipPath>MusicExpanded/Witcher3/53. The Shrieker Contract</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_055</defName>
+		<label>Witcher 3 – Another Round For Everyone</label>
+		<clipPath>MusicExpanded/Witcher3/55. Another Round For Everyone</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_056</defName>
+		<label>Witcher 3 – Conjunction Of The Spheres</label>
+		<clipPath>MusicExpanded/Witcher3/56. Conjunction Of The Spheres</clipPath>
+	</MusicExpanded.TrackDef>
+
+	<!-- MainMenu Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_002</defName>
+		<label>Witcher 3 – Geralt Of Rivia</label>
+		<clipPath>MusicExpanded/Witcher3/02. Geralt Of Rivia</clipPath>
+		<cue>MainMenu</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- Credits Tracks -->
+	<!-- none -->
+
+	<!-- BattleSmall Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_018</defName>
+		<label>Witcher 3 – Witch Hunters</label>
+		<clipPath>MusicExpanded/Witcher3/18. Witch Hunters</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_022</defName>
+		<label>Witcher 3 – Cloak And Dagger</label>
+		<clipPath>MusicExpanded/Witcher3/22. Cloak And Dagger</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_026</defName>
+		<label>Witcher 3 – Drink Up, There’s More!</label>
+		<clipPath>MusicExpanded/Witcher3/26. Drink Up, There’s More!</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_036</defName>
+		<label>Witcher 3 – Nemesis</label>
+		<clipPath>MusicExpanded/Witcher3/36. Nemesis</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_047</defName>
+		<label>Witcher 3 – Go For It</label>
+		<clipPath>MusicExpanded/Witcher3/47. Go For It</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_054</defName>
+		<label>Witcher 3 – The Possesion Of Jarl Udalryk</label>
+		<clipPath>MusicExpanded/Witcher3/54. The Possesion Of Jarl Udalryk</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- BattleMedium Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_006</defName>
+		<label>Witcher 3 – Commanding The Fury</label>
+		<clipPath>MusicExpanded/Witcher3/06. Commanding The Fury</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_010</defName>
+		<label>Witcher 3 – Silver For Monsters</label>
+		<clipPath>MusicExpanded/Witcher3/10. Silver For Monsters</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_023</defName>
+		<label>Witcher 3 – Forged In Fire</label>
+		<clipPath>MusicExpanded/Witcher3/23. Forged In Fire</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_028</defName>
+		<label>Witcher 3 – Blood On The Cobblestones</label>
+		<clipPath>MusicExpanded/Witcher3/28. Blood On The Cobblestones</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_031</defName>
+		<label>Witcher 3 – The Hunt Is Coming</label>
+		<clipPath>MusicExpanded/Witcher3/31. The Hunt Is Coming</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_033</defName>
+		<label>Witcher 3 – No Surrender</label>
+		<clipPath>MusicExpanded/Witcher3/33. No Surrender</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_038</defName>
+		<label>Witcher 3 – At War!</label>
+		<clipPath>MusicExpanded/Witcher3/38. At War!</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_049</defName>
+		<label>Witcher 3 – On Thin Ice</label>
+		<clipPath>MusicExpanded/Witcher3/49. On Thin Ice</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- BattleLarge Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_016</defName>
+		<label>Witcher 3 – Kaer Morhen</label>
+		<clipPath>MusicExpanded/Witcher3/16. Kaer Morhen</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_035</defName>
+		<label>Witcher 3 – In The Giant’s Shadow</label>
+		<clipPath>MusicExpanded/Witcher3/35. In The Giant’s Shadow</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_052</defName>
+		<label>Witcher 3 – The Big Four</label>
+		<clipPath>MusicExpanded/Witcher3/52. The Big Four</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- BattleLegendary Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_003</defName>
+		<label>Witcher 3 – Eredin, King Of The Hunt</label>
+		<clipPath>MusicExpanded/Witcher3/03. Eredin, King Of The Hunt</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_015</defName>
+		<label>Witcher 3 – Widow-Maker</label>
+		<clipPath>MusicExpanded/Witcher3/15. Widow-Maker</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_025</defName>
+		<label>Witcher 3 – Welcome, Imlerith</label>
+		<clipPath>MusicExpanded/Witcher3/25. Welcome, Imlerith</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+
+
+	<!-- Blood and Wine -->
+	
+	<!-- Ambient Tracks (No Cue) -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_002</defName>
+		<label>Witcher 3 – Beyond Hill And Dale…</label>
+		<clipPath>MusicExpanded/Witcher3/Beyond Hill And Dale…</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_009</defName>
+		<label>Witcher 3 – On The Champs-Désolés</label>
+		<clipPath>MusicExpanded/Witcher3/On The Champs-Désolés</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_011</defName>
+		<label>Witcher 3 – Searching For Cecilia Bellant</label>
+		<clipPath>MusicExpanded/Witcher3/Searching For Cecilia Bellant</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_012</defName>
+		<label>Witcher 3 – Seeking Resonance</label>
+		<clipPath>MusicExpanded/Witcher3/Seeking Resonance</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_013</defName>
+		<label>Witcher 3 – Syanna</label>
+		<clipPath>MusicExpanded/Witcher3/Syanna</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_018</defName>
+		<label>Witcher 3 – The Moon Over Mount Gorgon</label>
+		<clipPath>MusicExpanded/Witcher3/The Moon Over Mount Gorgon</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_019</defName>
+		<label>Witcher 3 – The Musty Scent Of Fresh Pâté</label>
+		<clipPath>MusicExpanded/Witcher3/The Musty Scent Of Fresh Pâté</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_021</defName>
+		<label>Witcher 3 – The Slopes Of The Blessure</label>
+		<clipPath>MusicExpanded/Witcher3/The Slopes Of The Blessure</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_025</defName>
+		<label>Witcher 3 – Wind In The Caroberta Woods</label>
+		<clipPath>MusicExpanded/Witcher3/Wind In The Caroberta Woods</clipPath>
+	</MusicExpanded.TrackDef>
+
+	<!-- MainMenu and Credits Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_003</defName>
+		<label>Witcher 3 – Blood and Wine</label>
+		<clipPath>MusicExpanded/Witcher3/Blood and Wine</clipPath>
+		<cue>MainMenu</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_005</defName>
+		<label>Witcher 3 – Fanfares And Flowers</label>
+		<clipPath>MusicExpanded/Witcher3/Fanfares And Flowers</clipPath>
+		<cue>Credits</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- BattleSmall Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_008</defName>
+		<label>Witcher 3 – Wine Wars</label>
+		<clipPath>MusicExpanded/Witcher3/Wine Wars</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_004</defName>
+		<label>Witcher 3 – Blood Run</label>
+		<clipPath>MusicExpanded/Witcher3/Blood Run</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_017</defName>
+		<label>Witcher 3 – Tesham Mutna</label>
+		<clipPath>MusicExpanded/Witcher3/Tesham Mutna</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- BattleMedium Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_016</defName>
+		<label>Witcher 3 – The Mandragora</label>
+		<clipPath>MusicExpanded/Witcher3/The Mandragora</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- BattleLarge Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_006</defName>
+		<label>Witcher 3 – For Honor! For Toussaint!</label>
+		<clipPath>MusicExpanded/Witcher3/For Honor! For Toussaint!</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_015</defName>
+		<label>Witcher 3 – The Beast Of Beauclair</label>
+		<clipPath>MusicExpanded/Witcher3/The Beast Of Beauclair</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- BattleLegendary Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_007</defName>
+		<label>Witcher 3 – Guillaume Versus The Shaelmaar</label>
+		<clipPath>MusicExpanded/Witcher3/Guillaume Versus The Shaelmaar</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_010</defName>
+		<label>Witcher 3 – Lady Of The Lake</label>
+		<clipPath>MusicExpanded/Witcher3/Lady Of The Lake</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_020</defName>
+		<label>Witcher 3 – The Night Of Long Fangs</label>
+		<clipPath>MusicExpanded/Witcher3/The Night Of Long Fangs</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_BW_022</defName>
+		<label>Witcher 3 – Titans Of Infamy</label>
+		<clipPath>MusicExpanded/Witcher3/Titans Of Infamy</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- Custom Cues (Anomaly Integration) -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_001</defName>
+		<label>Witcher 3 – King Bran’s Final Voyage</label>
+		<clipPath>MusicExpanded/Witcher3/09. King Bran’s Final Voyage</clipPath>
+		<cue>Custom</cue>
+		<cueData>DeathPall</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_002</defName>
+		<label>Witcher 3 – Kaer Morhen</label>
+		<clipPath>MusicExpanded/Witcher3/16. Kaer Morhen</clipPath>
+		<cue>Custom</cue>
+		<cueData>Revenant</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_003</defName>
+		<label>Witcher 3 – Eyes Of The Wolf</label>
+		<clipPath>MusicExpanded/Witcher3/17. Eyes Of The Wolf</clipPath>
+		<cue>Custom</cue>
+		<cueData>GhoulAttack</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_004</defName>
+		<label>Witcher 3 – Blood On The Cobblestones</label>
+		<clipPath>MusicExpanded/Witcher3/28. Blood On The Cobblestones</clipPath>
+		<cue>Custom</cue>
+		<cueData>DistressCall</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_005</defName>
+		<label>Witcher 3 – Child Of The Elder Blood</label>
+		<clipPath>MusicExpanded/Witcher3/34. Child Of The Elder Blood</clipPath>
+		<cue>Custom</cue>
+		<cueData>UnnaturalDarkness</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_006</defName>
+		<label>Witcher 3 – Bonnie At Morn (Instrumental)</label>
+		<clipPath>MusicExpanded/Witcher3/37. Bonnie At Morn (Instrumental)</clipPath>
+		<cue>Custom</cue>
+		<cueData>MysteriousCargoUnnaturalCorpse</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_007</defName>
+		<label>Witcher 3 – The Shrieker Contract</label>
+		<clipPath>MusicExpanded/Witcher3/53. The Shrieker Contract</clipPath>
+		<cue>Custom</cue>
+		<cueData>ShamblerSwarm,ShamblerSwarmAnimals</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_008</defName>
+		<label>Witcher 3 – The Possession Of Jarl Udalryk</label>
+		<clipPath>MusicExpanded/Witcher3/54. The Possesion Of Jarl Udalryk</clipPath>
+		<cue>Custom</cue>
+		<cueData>Possession</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_009</defName>
+		<label>Witcher 3 – Conjunction Of The Spheres</label>
+		<clipPath>MusicExpanded/Witcher3/56. Conjunction Of The Spheres</clipPath>
+		<cue>Custom</cue>
+		<cueData>Nociosphere</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_010</defName>
+		<label>Witcher 3 – The Shrieker Contract</label>
+		<clipPath>MusicExpanded/Witcher3/53. The Shrieker Contract</clipPath>
+		<cue>Custom</cue>
+		<cueData>SmallShamblerSwarm</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_011</defName>
+		<label>Witcher 3 – Conjunction Of The Spheres</label>
+		<clipPath>MusicExpanded/Witcher3/56. Conjunction Of The Spheres</clipPath>
+		<cue>Custom</cue>
+		<cueData>PsychicRitualSiege</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_012</defName>
+		<label>Witcher 3 – The Shrieker Contract</label>
+		<clipPath>MusicExpanded/Witcher3/53. The Shrieker Contract</clipPath>
+		<cue>Custom</cue>
+		<cueData>ShamblerAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_013</defName>
+		<label>Witcher 3 – Family Matters</label>
+		<clipPath>MusicExpanded/Witcher3/32. Family Matters</clipPath>
+		<cue>Custom</cue>
+		<cueData>CreepJoinerJoin</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_014</defName>
+		<label>Witcher 3 – Shambler Swarm</label>
+		<clipPath>MusicExpanded/Witcher3/53. The Shrieker Contract</clipPath>
+		<cue>Custom</cue>
+		<cueData>ShamblerSwarm</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_015</defName>
+		<label>Witcher 3 – On Thin Ice</label>
+		<clipPath>MusicExpanded/Witcher3/49. On Thin Ice</clipPath>
+		<cue>Custom</cue>
+		<cueData>SightstealerArrival</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_016</defName>
+		<label>Witcher 3 – Nemesis</label>
+		<clipPath>MusicExpanded/Witcher3/36. Nemesis</clipPath>
+		<cue>Custom</cue>
+		<cueData>FleshbeastAttack</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_017</defName>
+		<label>Witcher 3 – Forged In Fire</label>
+		<clipPath>MusicExpanded/Witcher3/23. Forged In Fire</clipPath>
+		<cue>Custom</cue>
+		<cueData>ChimeraAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_018</defName>
+		<label>Witcher 3 – Fate Calls</label>
+		<clipPath>MusicExpanded/Witcher3/20. Fate Calls</clipPath>
+		<cue>Custom</cue>
+		<cueData>HateChanters</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_019</defName>
+		<label>Witcher 3 – At War!</label>
+		<clipPath>MusicExpanded/Witcher3/38. At War!</clipPath>
+		<cue>Custom</cue>
+		<cueData>GorehulkAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_020</defName>
+		<label>Witcher 3 – Witch Hunters</label>
+		<clipPath>MusicExpanded/Witcher3/18. Witch Hunters</clipPath>
+		<cue>Custom</cue>
+		<cueData>DevourerAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_021</defName>
+		<label>Witcher 3 – Sightstealer Swarm</label>
+		<clipPath>MusicExpanded/Witcher3/38. At War!</clipPath>
+		<cue>Custom</cue>
+		<cueData>SightstealerSwarm</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_022</defName>
+		<label>Witcher 3 – Blood Run</label>
+		<clipPath>MusicExpanded/Witcher3/Blood Run</clipPath>
+		<cue>Custom</cue>
+		<cueData>DevourerWaterAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_023</defName>
+		<label>Witcher 3 – Commanding The Fury</label>
+		<clipPath>MusicExpanded/Witcher3/06. Commanding The Fury</clipPath>
+		<cue>Custom</cue>
+		<cueData>MetalHorrorImplantation</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_024</defName>
+		<label>Witcher 3 – Aen Seidhe</label>
+		<clipPath>MusicExpanded/Witcher3/05. Aen Seidhe</clipPath>
+		<cue>Custom</cue>
+		<cueData>TwistedObelisk</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_025</defName>
+		<label>Witcher 3 – Farewell, Old Friend</label>
+		<clipPath>MusicExpanded/Witcher3/29. Farewell, Old Friend</clipPath>
+		<cue>Custom</cue>
+		<cueData>CorruptedObelisk</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_026</defName>
+		<label>Witcher 3 – The Song Of The Sword-Dancer</label>
+		<clipPath>MusicExpanded/Witcher3/30. The Song Of The Sword-Dancer</clipPath>
+		<cue>Custom</cue>
+		<cueData>WarpedObelisk</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_027</defName>
+		<label>Witcher 3 – Frenzied Animals</label>
+		<clipPath>MusicExpanded/Witcher3/18. Witch Hunters</clipPath>
+		<cue>Custom</cue>
+		<cueData>FrenziedAnimals</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_028</defName>
+		<label>Witcher 3 – Whispers Of Oxenfurt</label>
+		<clipPath>MusicExpanded/Witcher3/11. Whispers Of Oxenfurt</clipPath>
+		<cue>Custom</cue>
+		<cueData>PitGate</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_029</defName>
+		<label>Witcher 3 – Blood On The Cobblestones</label>
+		<clipPath>MusicExpanded/Witcher3/28. Blood On The Cobblestones</clipPath>
+		<cue>Custom</cue>
+		<cueData>FleshmassHeart</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_030</defName>
+		<label>Witcher 3 – Bonnie At Morn (Instrumental)</label>
+		<clipPath>MusicExpanded/Witcher3/37. Bonnie At Morn (Instrumental)</clipPath>
+		<cue>Custom</cue>
+		<cueData>MysteriousCargoUnnaturalCorpse</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_031</defName>
+		<label>Witcher 3 – Blood and Wine</label>
+		<clipPath>MusicExpanded/Witcher3/Blood and Wine</clipPath>
+		<cue>Custom</cue>
+		<cueData>MysteriousCargoGoldenCube</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_032</defName>
+		<label>Witcher 3 – Welcome, Imlerith</label>
+		<clipPath>MusicExpanded/Witcher3/25. Welcome, Imlerith</clipPath>
+		<cue>Custom</cue>
+		<cueData>MysteriousCargoRevenantSpine</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_033</defName>
+		<label>Witcher 3 – King Bran’s Final Voyage</label>
+		<clipPath>MusicExpanded/Witcher3/09. King Bran’s Final Voyage</clipPath>
+		<cue>Custom</cue>
+		<cueData>DeathPall</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_034</defName>
+		<label>Witcher 3 – Kaer Morhen</label>
+		<clipPath>MusicExpanded/Witcher3/16. Kaer Morhen</clipPath>
+		<cue>Custom</cue>
+		<cueData>Revenant</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_035</defName>
+		<label>Witcher 3 – Eyes Of The Wolf</label>
+		<clipPath>MusicExpanded/Witcher3/17. Eyes Of The Wolf</clipPath>
+		<cue>Custom</cue>
+		<cueData>GhoulAttack</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_036</defName>
+		<label>Witcher 3 – Child Of The Elder Blood</label>
+		<clipPath>MusicExpanded/Witcher3/34. Child Of The Elder Blood</clipPath>
+		<cue>Custom</cue>
+		<cueData>UnnaturalDarkness</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_037</defName>
+		<label>Witcher 3 – The Nightingale</label>
+		<clipPath>MusicExpanded/Witcher3/12. The Nightingale</clipPath>
+		<cue>Custom</cue>
+		<cueData>Nociosphere</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_W3_ANOM_038</defName>
+		<label>Witcher 3 – Family Matters</label>
+		<clipPath>MusicExpanded/Witcher3/32. Family Matters</clipPath>
+		<cue>Custom</cue>
+		<cueData>CreepJoinerJoin</cueData>
+	</MusicExpanded.TrackDef>
+	
+</Defs>
